@@ -1,4 +1,4 @@
-### FYI: This isn't 100% universal, there are bugs on almost every season and some seasons have no support at all.<br> <a href="https://discord.gg/reboot">Discord Server</a>.
+### FYI:Esto no es 100% universal, hay errores en casi todas las temporadas y algunas temporadas no tienen ningún soporte.<br> <a href="https://discord.gg/reboot">Discord Server</a>.
 
 # Supported Versions
 Currently Supported: ~S1-S19<br>
